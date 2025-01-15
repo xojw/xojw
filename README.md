@@ -4,7 +4,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=xojw&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="my GitHub Stats" />
 
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/xojw/astria./refs/heads/main/IMG_5316.png" alt="cool">
 </p>
 

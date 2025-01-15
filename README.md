@@ -1,4 +1,4 @@
-##👋
+👋
 
 New Year Same Me 💔
 

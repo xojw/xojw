@@ -1,3 +1,11 @@
-## No idea what im doing 💔
+## No Idea What I'm Doing 💔  
 
-<img src="https://github-readme-stats.vercel.app/api?username=xojw&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="my GitHub Stats" />
+### My Current Projects:
+
+**[Waves](https://github.com/xojw/waves)**  
+
+**[Waves Movies](https://github.com/xojw/waves-movies)**  
+
+<p align="center">
+  <img src="./cat.jpg" alt="cool cat">
+</p>

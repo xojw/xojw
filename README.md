@@ -6,6 +6,6 @@
 
 **[Waves Movies](https://github.com/xojw/waves-movies)**  
 
-<p align="center">
+<p align="left">
   <img src="./cat.jpg" alt="cool cat">
 </p>
